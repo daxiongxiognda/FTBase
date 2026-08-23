@@ -1,0 +1,6 @@
+use_frameworks!
+target 'FTBase_Tests' do
+  pod 'FTBase', :path => '../'
+  
+  
+end
